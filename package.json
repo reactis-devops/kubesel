@@ -9,6 +9,6 @@
   "dependencies": {
     "expand-tilde": "^2.0.2",
     "prompts": "^2.2.1",
-    "yaml": "^1.7.2"
+    "yaml": "^1.10.3"
   }
 }
